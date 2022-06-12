@@ -7,4 +7,8 @@ Methodology: We have built a platform where students can come and learn from the
 
 Advantages:
 
-(1) Students prefer to learn from video lectures delivered by his/her faculty handling the subject. (2) Students can get their doubts clarified during lectures, by posting queries in discussion forums. (3) Students prefer to learn from video lectures delivered by his/her faculty handling the subject. (4) Mentor Portal have special filter of class format to check history of previous classes which they have taken or message. (5) Adhyapanam is cost effective as it charges no cost from student and mentor.
+(1) Students prefer to learn from video lectures delivered by his/her faculty handling the subject. 
+(2) Students can get their doubts clarified during lectures, by posting queries in discussion forums. 
+(3) Students prefer to learn from video lectures delivered by his/her faculty handling the subject. 
+(4) Mentor Portal have special filter of class format to check history of previous classes which they have taken or message. 
+(5) Adhyapanam is cost effective as it charges no cost from student and mentor.
